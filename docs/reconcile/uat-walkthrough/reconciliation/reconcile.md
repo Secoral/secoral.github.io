@@ -108,7 +108,7 @@ After reconciliation, the following output file was produced:
 
 {: .important }
 
-During the [**Reconciliation**](#reconciliation) step, you can manually input missing values—such as **Visit No**, **HRN**, or **Bank Ref No**—directly into the reconciliation output file before uploading it for processing.
+During the [**Reconciliation**](#reconciliation-output) step, you can manually input missing values—such as **Visit No**, **HRN**, or **Bank Ref No**—directly into the reconciliation output file before uploading it for processing.
 
 > **Important:**  
 > If you manually enter a value that does **not** exist in the system database, the processed reconciliation will still fail validation.
